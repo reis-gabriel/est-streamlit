@@ -1,9 +1,9 @@
 import streamlit as st
+import plotly.express as px
+import pandas as pd
 from PIL import Image
 from multiapp import MultiApp
 from paginas import bacharelado, geral, professores, servico, matematica
-import pandas as pd
-import plotly.express as px
 
 app = MultiApp()
 
