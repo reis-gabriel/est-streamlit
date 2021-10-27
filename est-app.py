@@ -3,6 +3,7 @@ from PIL import Image
 from multiapp import MultiApp
 from paginas import bacharelado, geral, professores, servico, matematica
 import pandas as pd
+import plotly.express as px
 
 app = MultiApp()
 
