@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-historico_url = ("/Users/gabrielreis/Git/disciplinas-est/Streamlit/completo_est.csv")
+historico_url = ("completo_est.csv")
 
 profs_ativos = ["Alan Ricardo da Silva", "Ana Maria Nogales Vasconcelos", "André Luiz Fernandes Cançado", "Antônio Eduardo Gomes", "Bernardo Borba de Andrade",
                 "Bernardo Nogueira Schlemper", "Cibele Queiroz da Silva", "Cira Etheowalda Guevara Otiniano", "Claudete Ruas", "Démerson André Polli",
